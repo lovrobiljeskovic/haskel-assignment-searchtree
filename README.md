@@ -1,0 +1,1 @@
+# haskel-assignment-searchtree
